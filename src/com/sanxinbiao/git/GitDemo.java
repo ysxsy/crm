@@ -8,7 +8,7 @@ public class GitDemo {
 		System.out.println("git 0427");
 		System.out.println("abf");	
 		System.out.println("badd");
-		System.out.println("11111");
+		system.out.println("11111");
 	}
 
 }
